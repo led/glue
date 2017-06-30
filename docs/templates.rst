@@ -4,7 +4,7 @@ Templates
 Introduction
 ------------
 
-``glue`` formats based on templates can be customized with your own templates from the command line. By convention every format (i.e ``css``) will define an optional  ``--css-template`` with wich you can override the template the format will use.
+``glue`` formats based on templates can be customized with your own templates from the command line. By convention every format (i.e ``css``) will define an optional  ``--css-template`` with which you can override the template the format will use.
 
 These templates are simple `Jinja2 templates <http://jinja.pocoo.org/docs/>`_ you can customize a far as you want using the following context variables.
 
